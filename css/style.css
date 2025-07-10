@@ -13,7 +13,7 @@
 
 /* Header styles */
 header{
-background-image: url(/Assets/Hero-bg.png);
+background-image: url(./Assets/Hero-bg.png);
     padding: 0px 150px  0px 150px;  
    
    height: 698px; 
@@ -103,12 +103,23 @@ header nav h3 span {
       margin-bottom: 20px;
     }
 
-  
+  .sd{
+    color: #252432;
+    font-size: 42px;
+    font-weight: bold;
+  }
+ .sd-1{
+    color: #474747;
+    font-size: 24px;
+    font-weight: 400;
+    
+ }
 
 .btn:hover {
       background-color: #4938e2;
     }
 
+ 
 .image-section img {
       max-width: 400px;
       border-radius: 48px;
@@ -140,7 +151,7 @@ header nav h3 span {
     font-size: 80px;
 }
 
-.col span{
+.df{
     color: #474747;
     font-size: 20px;
     font-weight: 400px;
@@ -169,4 +180,7 @@ header nav h3 span {
 }
 .head-btn{
     margin-top: 20px;
+}
+.dh{
+    display: flex;
 }
