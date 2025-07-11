@@ -271,10 +271,7 @@ header nav h3 span {
 .contact-section{
    
     height: 632px;
-    /* border: 2px solid red; */
-    /* margin-left:150px;
-    margin-top: 92px; */
-    
+  
     
 }
 
@@ -337,16 +334,16 @@ textarea{
     border-radius: 10px;
     border: none;
     padding: 30px 5px;
-    /* background-color: white; */
+    
 }
 
 
-/* button:hover{
-    border: 4px solid rgb(0, 255, 64);
+button:hover {
+    border: 4px solid rgb(88, 156, 61);
     border-radius: 40px;
     background-color: black;
-    box-shadow: 2px 3px 30px rgba(16, 16, 236, 0.76);
-} */
+    box-shadow: 2px 3px 30px rgba(31, 116, 139, 0.76);
+} 
 
 /* foo */
 .footer-section {
@@ -358,7 +355,7 @@ textarea{
 }
 
 .total-section-container {
-    /* background-color: rgba(255, 0, 0, 0.295); */
+ 
     width: 550px;
     text-align: center;
     margin-left: auto;
